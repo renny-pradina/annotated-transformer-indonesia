@@ -1,5 +1,5 @@
 # annotated-transformer-indonesia
-This is a commented translation into Bahasa Indonesia of "The Annotated Transformer" by Alexander Rush.
+*This is a commented translation into Bahasa Indonesia of "The Annotated Transformer" by Alexander Rush.*
 
 Attention merupakan teknik yang pada saat ini merupakan teknik yang memberikan performa *state-of-the-art* pada banyak tugas pada Pengolahan Bahasa Alami (*Natural Language Processing*). Teknik ini pertama kali diperkenalkan oleh Bahdanau dkk. (2014) dalam makalah "Neural Machine Translation by Jointly Learning to Align and Translate", namun menjadi sangat populer pada tahun belakangan ini melalui makalah Vaswani dkk. (2017), "Attention is All You Need", yang selain memberikan performa penerjemahan yang unggul dengan biaya komputasi lebih rendah, juga merupakan makalah pertama di mana *attention* dipergunakan secara murni tanpa menggunakan arsitektur rekurensi misalnya dengan RNN.
 

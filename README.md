@@ -8,4 +8,4 @@ Python Notebook ini merupakan terjemahan bahasa Indonesia dari "The Annotated Tr
 Akhir kata, selamat mencoba, dan semoga bermanfaat.
 
 
---Renny P. Kusumawardani
+- **Renny P. Kusumawardani**
